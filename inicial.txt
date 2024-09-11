@@ -1,0 +1,4 @@
+git clone   // clonar el repo
+git status  // estado de la carpeta
+git add [.] // añadir
+ 
